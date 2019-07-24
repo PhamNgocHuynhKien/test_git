@@ -1,3 +1,4 @@
 function Mouse() {
-    console.log('Chit chit');
+    console.log('Chit sadasdaschit');
+    console.log();
 }
